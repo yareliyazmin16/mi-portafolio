@@ -43,19 +43,19 @@ Este proyecto consiste en el diseño, personalización y despliegue en vivo de u
 
 ---
 
-##  Proceso de Creación (Paso a Paso)
+##  Proceso de Creación 
 
 A partir de los archivos fuente de la plantilla descargada, realicé el siguiente procedimiento para estructurar y adaptar el portafolio según los lineamientos requeridos:
 
 1. **Descarga y Extracción:** Descargué el código original desde el repositorio de Start Bootstrap en formato zip y lo extraje en mi computadora.
 2. **Reestructuración Limpia de Carpetas (Puntos de Rúbrica):** Tomé los archivos compilados de la carpeta dist. Cree una carpeta nueva en mi computadora y dentro de ella tres carpetas: `css/`, `js/` e `img/`.
 3. **Migración y Renombrado de Archivos:** 
-   * Moví el archivo `index.html` a mi carpeta.
-   * Tomé el archivo original `styles.css` de la plantilla, lo pegué dentro de mi nueva carpeta `css` y lo renombré como `portafolio.css`.
-   * Tomé el archivo original `scripts.js`, lo pegué en mi carpeta `js` y lo renombré como `portafolio.js`.
+* Moví el archivo `index.html` a mi carpeta.
+* Tomé el archivo original `styles.css` de la plantilla, lo pegué dentro de mi nueva carpeta `css` y lo renombré como `portafolio.css`.
+* Tomé el archivo original `scripts.js`, lo pegué en mi carpeta `js` y lo renombré como `portafolio.js`.
 4. **Modificación de Rutas en el `index.html`:** Para evitar que la página tuviera errores después de  renombrar los archivos de estilos y scripts, abrí el código en el editor y actualicé los enlaces de la siguiente manera:
-   * El CSS superior se cambió a: `<link href="css/portafolio.css" rel="stylesheet" />`
-   * El script inferior se cambió a: `<script src="js/portafolio.js"></script>`
+* El CSS se cambió a: `<link href="css/portafolio.css" rel="stylesheet" />`
+* El script  se cambió a: `<script src="js/portafolio.js"></script>`
 5. **Personalización de Contenido Técnico:** Modifiqué cada bloque de texto y párrafo original de la plantilla para plasmar mi información real. 
 7. **Integración de Fotografía Profesional:** Sustituí la imagen genérica de la barra de navegación lateral por una foto real propia (`img/imagenfoto.jpg`).
 
@@ -73,7 +73,7 @@ A continuación, se anexan las muestras del portafolio web adaptado con mi infor
 ![alt text](cap/image-1.png)
 
 ### Vista de Formación Académica 
-![alt text]![alt text](cap/image2.png)
+[alt text](cap/image2.png)
 
 ### Vista de Habilidades Técnicas
 ![alt text](cap/image-3.png)
