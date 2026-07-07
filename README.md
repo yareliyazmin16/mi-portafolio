@@ -73,7 +73,7 @@ A continuación, se anexan las muestras del portafolio web adaptado con mi infor
 ![alt text](cap/image-1.png)
 
 ### Vista de Formación Académica 
-[alt text](cap/image2.png)
+![alt text](cap/image2.png)
 
 ### Vista de Habilidades Técnicas
 ![alt text](cap/image-3.png)
